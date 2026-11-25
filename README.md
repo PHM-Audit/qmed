@@ -84,3 +84,20 @@ Apache-2.0. The rule tables are original engineering; the clinical facts are pub
 ---
 
 *QMed is part of the PHM deterministic-validator family (physics-consistency scoring, action-boundary checking). This repository contains the structural layer only.*
+
+## Regulatory context (2026-11)
+
+Frontier AI models are now entering clinical decision paths directly:
+ChatGPT-style agents already field medication questions from consumers,
+and OpenAI's November 2026 protein-biology preprint moved wet-lab
+validation of AI-designed minibinders into production territory
+(35/322 binding across five targets). Meanwhile regulators are
+codifying AI-output risk controls (e.g. China's SAMR disclosed on
+Nov 24, 2026 an international standard proposal for generative-AI risk
+response, ISO/IEC TS 25568). The gap QMed addresses — deterministic,
+replayable boundary checks on medical claims inside AI outputs
+(dosing limits, avoid-seeking-care language, fabricated supervision)
+— sits exactly where model self-report meets patient safety.
+
+*Recorded as industry context; no affiliation implied with OpenAI,
+SAMR, or any standards body.*
